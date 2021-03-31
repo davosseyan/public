@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN",
+    "firstowner": "id",
+    "otherowner": "id",
+    "strelica": "EMOJI STRELICA",
+    "prefixNormalni": "PREFIX",
+
+    "supportServer": "SUPPORT SERVER",
+    "inviteLink": "BOT INVITE"
+}
