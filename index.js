@@ -29,7 +29,7 @@ client.snipes = new Map()
 
 client.on('ready', async() => {
 
-    console.log(`${client.user.tag} is ready. | ${client.guilds.cache.size} guilds.`);
+    console.log(`${client.user.tag} is Davos. | ${client.guilds.cache.size} guilds.`);
 
     client.user.setActivity(`@${client.user.username} | ${client.guilds.cache.size} guilds`, ({ type: "WATCHING" })).catch(console.error)
 });
