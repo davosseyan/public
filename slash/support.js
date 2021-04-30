@@ -9,8 +9,8 @@ module.exports = {
     const embed = new MessageEmbed()
     .setAuthor(`${client.user.username} - Support`, client.user.avatarURL())
     .setDescription('You can join our support and main server down there.')
-    .addField('<:waiting:825669839967879198> | Support', '[Click Here](https://discord.gg/UfwMkeAMzr)')
-    .addField('<:supporter:814438096987881472> | Main', '[Click Here](https://discord.gg/7yzuvxtbzk)')
+    .addField('<:waiting:825669839967879198> | Support', '[Click Here](https://discord.gg/JjESzJPYCk)')
+    .addField('<:supporter:814438096987881472> | Main', '[Click Here](https://discord.gg/JjESzJPYCk)')
     .setColor('GREEN')
     .setFooter('mqrkelich.com', client.user.avatarURL())
 
