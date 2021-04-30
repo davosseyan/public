@@ -1,10 +1,10 @@
 {
     "token": "ODA0MDY4MDE3MDc1MjU3Mzc0.YBG8sg.w53gGlIpWt-4RCNJk-503Wvea3U",
-    "firstowner": "id",
-    "otherowner": "id",
-    "strelica": "EMOJI STRELICA",
+    "firstowner": "743777558792765481",
+    "otherowner": "743777558792765481",
+    "strelica": "<a:emoji_61:813491881031893012>",
     "prefixNormalni": "r!",
 
-    "supportServer": "SUPPORT SERVER",
-    "inviteLink": "BOT INVITE"
+    "supportServer": "https://discord.gg/JjESzJPYCk",
+    "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=804068017075257374&permissions=8&scope=bot",
 }
